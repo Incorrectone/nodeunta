@@ -62,12 +62,15 @@ rtt min/avg/max/mdev = 0.292/0.307/0.320/0.010 ms
 ## FAQ
 
 > What happens if something drops?
+
 It wont.
 
 > Does this solve anything?
+
 No, It does not solve anything.
 
 > Is it better than anything in the market?
+
 No.
 
 > What is the actual use case?
