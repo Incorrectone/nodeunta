@@ -1,1 +1,1 @@
-Folder for images. Made msotly on on Draw.io
+Folder for images. Made mostly on on Draw.io
