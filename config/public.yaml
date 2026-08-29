@@ -1,0 +1,9 @@
+# config/public.yaml
+
+title   : nodeunta_server
+version : v0.1
+
+subnets:
+  - default   : 192.168.10.0
+    mask      : 24
+    desc      : Default subnet
