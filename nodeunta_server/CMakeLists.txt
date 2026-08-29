@@ -6,6 +6,8 @@ project(nodeunta_server)
 # set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -Wextra -g -fsanitize=address")
 # set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -fsanitize=address")
 
+find_package(libyaml REQUIRED)
+
 set(HEADER_DIR include)
 file(GLOB headers "${HEADER_DIR}/*.h")
 file(GLOB sources "src/*.c")

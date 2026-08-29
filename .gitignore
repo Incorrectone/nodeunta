@@ -1,0 +1,7 @@
+# Extras
+*.ignore
+ignore/
+
+# Standard C ignores
+*.o
+build/
