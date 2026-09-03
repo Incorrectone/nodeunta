@@ -1,6 +1,6 @@
 # config/public.yaml
 
-title   : nodeunta_server
+title   : nodeunta
 version : v0.1
 
 subnets:

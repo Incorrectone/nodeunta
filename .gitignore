@@ -5,3 +5,7 @@ ignore/
 # Standard C ignores
 *.o
 build/
+
+
+# Doxygen Output Files
+docs/html/
