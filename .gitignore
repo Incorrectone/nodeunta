@@ -6,6 +6,8 @@ ignore/
 *.o
 build/
 
+# VScode
+.vscode/
 
 # Doxygen Output Files
 docs/html/
